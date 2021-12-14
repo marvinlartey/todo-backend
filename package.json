@@ -1,6 +1,7 @@
 {
   "name": "todo-backend",
   "version": "1.0.0",
+  "engines": {"node": "16.13.0"},
   "description": "backend for todo app",
   "main": "index.js",
   "type": "module",
